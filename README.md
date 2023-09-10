@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leonel Dalida a Computer Science Graduate
+- 👋 Hi, I’m Leonel Dalida a Computer Science Graduate in Eulogio "Amang" Rodriguez Institute of Science and Technology.
 - 👀 I’m interested in Web Developing
 - 📫 How to reach me in Gmail: leonel.dalida@gmail.com Linkedin: https://www.linkedin.com/in/dalida-leonel-e-44b057287
 
