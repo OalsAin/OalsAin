@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leonel Dalida a computer science graduate
+- 👋 Hi, I’m Leonel Dalida a Computer Science Graduate
 - 👀 I’m interested in Web Developing
 - 📫 How to reach me in Gmail: leonel.dalida@gmail.com Linkedin: https://www.linkedin.com/in/dalida-leonel-e-44b057287 Messenger:
 
