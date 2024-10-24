@@ -10,14 +10,12 @@ Tools & Platforms: Git, VSCode, Postman
 🚀 Always Learning – Exploring the latest trends in full-stack development and keeping up with modern technologies.
 
 🌐 Connect with me
-
-📧 Email
-💼 LinkedIn
-Let’s collaborate on exciting web projects or chat about tech!
-
-Feel free to connect with me:
 - Email: leonel.dalida@gmail.com
 - LinkedIn: https://www.linkedin.com/in/dalida-leonel-e-44b057287
+
+Let’s collaborate on exciting web projects or chat about tech!
+
+
 
 
 
