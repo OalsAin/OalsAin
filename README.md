@@ -15,6 +15,11 @@ Tools & Platforms: Git, VSCode, Postman
 💼 LinkedIn
 Let’s collaborate on exciting web projects or chat about tech!
 
+Feel free to connect with me:
+- Email: leonel.dalida@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dalida-leonel-e-44b057287
+
+
 
 <!---
 
